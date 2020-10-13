@@ -1,0 +1,10 @@
+.table-striped
+{
+   background-color:antiquewhite;
+   text-align:center;
+   color:darkblue;
+}
+
+.myform {
+  visibility:hidden;
+}
